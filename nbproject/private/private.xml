@@ -3,12 +3,26 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
+            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/VeterinariaMascota/web/RegistroCliente.xhtml</file>
+            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/VeterinariaMascota/src/java/managedBean/ClienteBean.java</file>
+            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/VeterinariaMascota/src/java/hibernate.cfg.xml</file>
+            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/VeterinariaMascota/src/java/hibernate.reveng.xml</file>
+            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/VeterinariaMascota/src/java/interfaces/IJuguete.java</file>
+            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/VeterinariaMascota/web/RegistroMascota.xhtml</file>
+            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/VeterinariaMascota/src/java/dao/PersonalDao.java</file>
+            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/VeterinariaMascota/src/java/interfaces/IMascota.java</file>
+            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/VeterinariaMascota/src/java/interfaces/IPersonal.java</file>
+            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/VeterinariaMascota/src/java/entidades/Juguete.java</file>
+            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/VeterinariaMascota/web/TemplateVeterinaria.xhtml</file>
+            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/VeterinariaMascota/src/java/managedBean/MascotaBean.java</file>
+            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/VeterinariaMascota/src/java/managedBean/JugueteBean.java</file>
             <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/VeterinariaMascota/src/java/dao/MascotaDao.java</file>
             <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/VeterinariaMascota/web/RegistroMascotaPorCliente.xhtml</file>
+            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/VeterinariaMascota/src/java/managedBean/PersonalBean.java</file>
             <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/VeterinariaMascota/web/RegistroPersonal.xhtml</file>
+            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/VeterinariaMascota/src/java/dao/JugueteDao.java</file>
             <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/VeterinariaMascota/src/java/dao/ClienteDao.java</file>
-            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/VeterinariaMascota/src/java/dao/PersonalDao.java</file>
-            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/VeterinariaMascota/src/java/dao/MascotaporclienteDao.java</file>
+            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/VeterinariaMascota/web/RegistroJuguete.xhtml</file>
         </group>
     </open-files>
 </project-private>
