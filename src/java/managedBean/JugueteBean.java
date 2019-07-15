@@ -27,7 +27,7 @@ import org.hibernate.HibernateException;
 public class JugueteBean implements Serializable {
 
     private Juguete juguete;
-    private boolean banderaSelect=false;
+    
 
      public JugueteBean() {
         this.juguete = new Juguete();
@@ -41,18 +41,6 @@ public class JugueteBean implements Serializable {
     public void setJuguete(Juguete juguete) {
         this.juguete = juguete;
     }
-
-    public boolean isBanderaSelect() {
-        return banderaSelect;
-    }
-
-    public void setBanderaSelect(boolean banderaSelect) {
-        this.banderaSelect = banderaSelect;
-    }
-    
-    
-   
-    
 
   
     public String guardarJuguete() {
